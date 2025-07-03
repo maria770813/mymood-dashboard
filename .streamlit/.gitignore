@@ -1,0 +1,7 @@
+# Python 캐시 및 임시파일
+__pycache__/
+*.py[cod]
+*.DS_Store
+
+# 감정 기록 CSV는 민감할 수 있으니 빼두기
+emotion_log.csv
