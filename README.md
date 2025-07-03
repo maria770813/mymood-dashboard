@@ -20,3 +20,7 @@ Each day you can log how you feel, write a short emotion memo, and view visual i
 ---
 
 🔗 **Live App**: [Click here to open MyMood Dashboard](https://mymood-dashboard.streamlit.app)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maria770813/mymood-dashboard/main/assets/banner.png" alt="MyMood Dashboard Banner" width="100%">
+</p>
